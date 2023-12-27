@@ -1,3 +1,4 @@
+xxxxxxxxxxxxxxxxxxxxxx
 # vue_shop
 
 ## Project setup
