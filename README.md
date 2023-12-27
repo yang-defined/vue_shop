@@ -1,6 +1,6 @@
 xxxxxxxxxxxxxxxxxxxxxx
 # vue_shop
-
+fffffffffffff
 ## Project setup
 ```
 npm install
